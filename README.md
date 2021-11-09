@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hubghost1986
 - 👀 I’m interested in cooking
 - 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate on music
+- 💞️ I’m looking to collaborate on open source coding.
 - 📫 How to reach me: rachelhearty49@gmail.com 
 
 <!---
